@@ -41,8 +41,8 @@ laplacian=cv2.Laplacian(image2,cv2.CV_64F)
 Display all the images with their respective filters.
 ## PROGRAM:
 ```python
-# Developed By   : U.BHAVYA
-# Register Number: 212220230055
+# Developed By   :GANAPATHI VENKATESH
+# Register Number: 212220230018
 
 import cv2
 import matplotlib.pyplot as plt
